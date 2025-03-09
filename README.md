@@ -34,7 +34,7 @@ Projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsini
 4. Pull request oluşturun.
 
 ## İletişim
-Herhangi bir soru veya öneriniz için lütfen issue açabilir veya doğrudan benimle iletişime geçebilirsiniz.
+Herhangi bir soru veya öneriniz için issue açabilir veya doğrudan benimle iletişime geçebilirsiniz.
 
 ---
-Bu proje, NDAT dersinin daha iyi anlaşılmasına yardımcı olmak için hazırlanmıştır. Her türlü katkıya açığız!
+Bu proje, NDAT dersinin daha iyi anlaşılmasına yardımcı olmak için hazırlanmıştır. Her türlü katkıya açığım!
