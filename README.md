@@ -18,12 +18,13 @@ Proje, belirli bir alan veya sektör için nesne yönelimli analiz ve tasarım s
 - Git ve GitHub versiyon kontrol sistemi
 
 ## Proje Yapısı
-📂 NDAT-Project 
-├──📂 docs # UML diyagramları ve dokümantasyon
-├──📂 src # Kaynak kodlar
-├──📂 tests # Test dosyaları
-├──README.md # Proje hakkında genel bilgiler
-├──LICENSE # Lisans bilgileri
+- 📂 `NDAT-Project`
+  - 📂 `docs`  # UML diyagramları ve dokümantasyon
+  - 📂 `src`   # Kaynak kodlar
+  - 📂 `tests` # Test dosyaları
+  - 📄 `README.md` # Proje hakkında genel bilgiler
+  - 📄 `LICENSE` # Lisans bilgileri
+
 
 ## Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirsiniz:
