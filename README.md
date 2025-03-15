@@ -1,4 +1,5 @@
 # Nesne Dayalı Analiz ve Tasarım (NDAT) Projesi
+
 Bu repository, Nesne Dayalı Analiz ve Tasarım (NDAT) dersinde kullanılan temel prensipleri ve uygulama süreçlerini göstermek amacıyla oluşturulmuştur. Projede, nesne yönelimli analiz ve tasarım teknikleri kullanılarak gerçek dünyadaki bir problemi çözmeye yönelik bir sistem geliştirilecektir.
 
 ## Proje Konusu
