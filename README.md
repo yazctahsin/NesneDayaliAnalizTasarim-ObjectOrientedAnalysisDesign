@@ -38,3 +38,5 @@ Herhangi bir soru veya öneriniz için issue açabilir veya doğrudan benimle il
 
 ---
 Bu proje, NDAT dersinin daha iyi anlaşılmasına yardımcı olmak için hazırlanmıştır. Her türlü katkıya açığım!
+
+Proje önerileri
